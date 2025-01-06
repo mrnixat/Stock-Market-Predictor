@@ -1,0 +1,1 @@
+This is a guided project which shows how to predict the stock market's behavior with python and machine learning. This code creates a basic machine learning model to predict the direction of the S&P 500 index, using historical data from Yahoo Finance (which is the yfinance library) and a RandomForestClassifier model (from the sklearn libray).
